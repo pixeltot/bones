@@ -1,0 +1,17 @@
+/******************************************************************
+Site Name:pixeltot	
+
+Author:Anthony J.
+
+Stylesheet: Admin Stylesheet
+
+If you like living on the edge, you can add some styles here to
+customize the dashboard and WordPress admin area. This stylesheet
+is empty, but you can just start dropping your styles here to
+start customizing. All admin functions are located in lib/admin/
+
+******************************************************************/
+/* line 15, ../scss/admin.scss */
+body {
+  background: black;
+}
